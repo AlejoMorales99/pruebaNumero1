@@ -1,3 +1,3 @@
-##pryecto web pagina de la ficalia 
-# autor::juanito
+##proyecto web pagina de la ficalia 
+# autor::queso con arroz
 este es un texto normal
